@@ -48,7 +48,7 @@ This codebase serves as an **educational translation** of the mathematical proof
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Define your initial assets and their bid-ask matrices.
 2. Build a tree of `MarketNode` instances representing your time horizons.
